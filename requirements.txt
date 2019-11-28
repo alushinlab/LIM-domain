@@ -1,0 +1,10 @@
+Pillow==5.0.0
+imageio
+jpype1
+matplotlib
+numpy
+pims
+pims_nd2
+scikit-image
+scipy
+sh
