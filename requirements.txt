@@ -1,4 +1,4 @@
-Pillow==5.0.0
+Pillow==6.2.0
 imageio
 jpype1
 matplotlib
